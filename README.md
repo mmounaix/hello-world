@@ -1,3 +1,2 @@
 # hello-world
-my first repository with Git
-Hi ! My name is Marion :) 
+Ceci est mon premier dépôt GitHub.
